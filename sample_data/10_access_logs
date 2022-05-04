@@ -1,0 +1,12 @@
+167.71.45.245 - - [05/Apr/2022:11:33:22 +0200] "GET /apache-log/access.log HTTP/1.1" 200 107208 "-" "curl/7.81.0" "-"
+167.71.45.245 - - [05/Apr/2022:11:33:45 +0200] "GET /apache-log/access.log HTTP/1.1" 200 175826 "-" "curl/7.81.0" "-"
+167.71.45.245 - - [05/Apr/2022:11:37:51 +0200] "GET /apache-log/access.log HTTP/1.1" 200 589160796 "-" "Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" "-"
+197.200.145.108 - - [05/Apr/2022:11:38:57 +0200] "GET /apache-log/ HTTP/1.1" 200 1088 "https://www.google.com/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" "-"
+197.200.145.108 - - [05/Apr/2022:11:38:57 +0200] "GET /icons/blank.gif HTTP/1.1" 404 221 "http://www.almhuette-raith.at/apache-log/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" "-"
+197.200.145.108 - - [05/Apr/2022:11:38:57 +0200] "GET /icons/back.gif HTTP/1.1" 404 220 "http://www.almhuette-raith.at/apache-log/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" "-"
+197.200.145.108 - - [05/Apr/2022:11:38:57 +0200] "GET /icons/text.gif HTTP/1.1" 404 220 "http://www.almhuette-raith.at/apache-log/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" "-"
+197.200.145.108 - - [05/Apr/2022:11:38:58 +0200] "GET /favicon.ico HTTP/1.1" 404 217 "http://www.almhuette-raith.at/apache-log/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" "-"
+197.200.145.108 - - [05/Apr/2022:11:40:21 +0200] "GET /apache-log/access.log HTTP/1.1" 200 19977632 "http://www.almhuette-raith.at/apache-log/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" "-"
+erfsd
+
+63.250.38.190 - - [05/Apr/2022:11:50:07 +0200] "GET / HTTP/1.1" 200 10439 "-" "-" "-"

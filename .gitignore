@@ -1,0 +1,9 @@
+.terraform*
+terraform.tfstat*
+terraform/.terraform/*
+.idea
+.DS_Store
+*.zip
+/_build/
+*__pycache__*
+.requirements.txt
