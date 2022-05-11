@@ -1,5 +1,7 @@
 ## Objective
-This is a demo project to build a dashboard for business to analyse usage of their website using an event driven architecture. Under the hood, it uses AWS OpenSearch service, S3 and Lambda. Project utilizes terraform and Makefile easy maintainance and deployment.
+This is a demo project to build a dashboard for business to analyse usage of their website using an event driven architecture. Under the hood, it uses AWS OpenSearch service, S3 and Lambda. Project utilizes terraform and Makefile easy maintenance and deployment.
+
+Check the [Contino blog](https://medium.com/contino-engineering/web-log-analysis-on-aws-up-and-running-in-minutes-59c4063f193c) for more details. 
 
 ### How it works
 
